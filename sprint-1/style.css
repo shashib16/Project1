@@ -1,0 +1,115 @@
+
+
+
+#history{padding:30px;
+    margin-top:30px;
+   text-align:center;
+   font-size:30px;
+   background:silver;
+   
+   clear:left;
+}
+#bullet{padding:30px;
+    margin-top:30px;
+   text-align:center;
+   font-size:30px;
+   background:silver;
+   
+   
+
+}
+#contents
+{ 
+  width:350px;
+  margin:40px;
+  font-size:20px;
+   
+   background:silver;
+     }
+#wagonways{
+    display:flex;
+    flex-wrap:wrap;
+     height:400px;
+     width:600px;
+     font-size:25px;
+     float:left;
+     margin:20px;
+}
+#id11>div
+{
+    font-size:30px;
+   
+    margin:10px;
+    
+    height:275px;
+    
+  float:left;
+  
+}
+div >p{
+    font-size:30px;
+    color:darkgreen;
+    text-align:center;
+}
+.class6{
+     margin:40px;
+     float:left;
+ 
+}
+
+
+
+.class0{
+    clear:left;
+    margin:auto;
+    font-size:30px;
+    padding:20px;
+    color:darkred;
+    text-align:center;
+    background:green;
+    height:30px;
+    width:800px;
+}
+
+ 
+ 
+ }
+div > figure{
+  color:darkgreen;
+  font-size:25px;
+  float:left;
+}
+
+
+
+#modern
+       {clear:left;
+    margin-left:20px;
+    height:50px;
+    color:green;
+    font-size:25px;
+      flex-wrap:warp;
+    }
+
+#anchor{
+    margin-top:30px;
+    margin-left:400px;
+    background:Green;
+    border:2px solid black;
+    width:500px;
+    padding:20px;
+    font-size:20px;
+
+}
+#population >p
+{    
+    margin-top:450px;
+  color:black;
+  background:silver; 
+  clear:left;
+  }
+  a:hover{
+      font-size:20px;
+      background:blue;
+      margin:auto;
+  }
