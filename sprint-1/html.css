@@ -1,0 +1,58 @@
+
+*{
+    margin:0;
+}
+#bigBox{
+    background:gainsboro;
+    height:1222px;
+
+}
+.container{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
+     background:#55576b;
+     padding:10px;
+     border-radius:20px;
+     
+    }
+    #nevigation_bar li{
+        margin:10px 40px;
+        list-style: none;   
+     display:inline-block;
+      text-transform: uppercase;
+}
+li{
+    letter-spacing: 1px;
+     background:#c9dab5 ;
+     font-size:15px;
+     border-radius: 8px;
+     padding:7px;
+     
+    }
+     
+
+button,input{
+    text-align:center;
+    color:wheat ;
+     position: absolute;
+     list-style-type: none;
+     left:1000px;
+     top:10x;
+     padding:12px;
+     border-radius: 15px;
+}
+button{
+     left:1200px;
+     padding:9px;
+     color:darkolivegreen;
+     margin-top:9px;
+}
+li>a{
+    color:green;
+    text-decoration:none;
+}
+div+div{
+    width:200px;
+    height:100px;
+}
